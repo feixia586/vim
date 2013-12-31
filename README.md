@@ -1,6 +1,6 @@
 #+TITLE: vim
 
-* Introduction
+# Introduction
 A good vim configuration.
 
 * Install
