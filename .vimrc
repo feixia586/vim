@@ -234,6 +234,9 @@ set foldmethod=syntax
 set foldlevel=100
 nnoremap <space> @=((foldclosed(line('.')) < 0) ? 'zc':'zo')<CR> 
 
+" remove toolbar
+:set guioptions-=T
+
 
 """"""""""""""""""""""""""""""""""""""""
 " For plugins
