@@ -20,7 +20,7 @@ For plugin YouCompleteMe (step 3~4 are for supporting C-family language):
 
 1. `cd ~/.vim/bundle/YouCompleteMe`
 2. `./install.sh --clang-completer` # This is for supporting C-family language
-3. `cp ~/.vim/bundle/YouCompleteMe/cpp/ycm/.ycm_extra_conf.py ~/`
+3. `cp ~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py ~/`
 4. modify .ycm_extra_conf.py if you have special need 
 
 # Trouble shooting
