@@ -21,12 +21,12 @@ Bundle 'tpope/vim-rails.git'
 Bundle 'mbbill/echofunc'
 Bundle 'scrooloose/syntastic'
 Bundle 'Valloric/YouCompleteMe'
+Bundle 'yarko/vim-taglist'
 
 " vim-scripts repos
 Bundle 'L9'
 Bundle 'FuzzyFinder'
 Bundle 'winmanager'
-Bundle 'taglist_46'
 
 " non-GitHub repos
 Bundle 'git://git.wincent.com/command-t.git'
